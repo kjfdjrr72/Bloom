@@ -1,0 +1,5 @@
+{"launch": {"version": "0.2.0","configurations": [{"type": "ionic","request": "launch","name": "Launch Ionic App","url": "http://localhost:8100","browser": "chrome"}]}},
+"settings": {"editor.formatOnType": true,
+"editor.formatOnSave": true,
+"editor.formatOnPaste": true,
+"editor.defaultFormatter": {"javascript": "esbenp.prettier-vscode"}}}
