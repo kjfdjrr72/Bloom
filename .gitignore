@@ -1,0 +1,21 @@
+# Logs
+logs/
+*.log
+
+# Node modules
+node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Dependency directories
+/bower_components/
+
+# Static file directories
+/public/assets/
+/public/uploads/
+
+# System Files
+.DS_Store
+Thumbs.db
